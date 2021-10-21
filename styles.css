@@ -1,0 +1,28 @@
+#tarjeta-operaciones {
+	border: 1px solid black;
+	margin: 20px;
+	box-shadow: 5px 5px 0 0 0 5;
+	width: 600px;
+	height: 600px;
+}
+#container {
+	margin: 20px;
+	box-shadow: 5px 5px 0 0 0 5;
+	height: 600px;
+}
+.estilo {
+	margin: 20px;
+	width: 150px;
+	height: 100px;
+	padding: 10px;
+}
+.flex {
+	display: flex;
+}
+.seccion {
+	display: flex;
+	flex-direction: column;
+}
+.titulos {
+	display: flex;
+}
